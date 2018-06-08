@@ -1,0 +1,21 @@
+.tooltip {
+  visibility: hidden;
+  position: absolute;
+}
+span {
+  font-size: 3em;
+  font-weight: 700;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+select {
+  position: relative;
+  left: calc(68%);
+  height: 25px;
+  margin-top: 5em;
+}
+svg {
+  width: 50%;
+  display: block;
+  position relative;
+  margin: auto;
+}
